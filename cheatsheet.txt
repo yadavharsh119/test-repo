@@ -1,1 +1,7 @@
-something
+git init - start tracking file
+echo "some text" > filename.txt - create file 
+git status-	shows modified,staged,new
+git commit -m "some mssg" - saves all staged changes with message
+git log - shows past
+git add . - add all changes in current folder
+git add filename.txt - add only one file changes
